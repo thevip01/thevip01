@@ -1,5 +1,26 @@
-<h1 align="center">Hi 👋, I'm Vipul Parmar</h1>
+<!-- 🔥 Hero Banner -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Hi 👋, I'm Vipul Parmar&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<!-- 👋 Name (Clickable Portfolio) -->
+
 <h3 align="center">A Passionate GenAI & Full Stack developer from India</h3>
+
+<!-- ⚡ Identity Strip -->
+
+<p align="center">
+⚡ GenAI Engineer • 🧠 RAG Systems • 🐍 Python Backend • ⚛️ React
+</p>
+
+<!-- 🚀 Portfolio Button -->
+
+<p align="center">
+<a href="http://vipul-portfolio.onrender.com/" target="_blank">
+<img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+</p>
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -33,6 +54,10 @@ I specialize in building intelligent applications powered by LLMs, combining:
 My focus:
 
 > Build systems that are fast, scalable, and actually useful.
+
+<p align="center">
+<em>“I don’t just build apps — I build intelligent systems.”</em>
+</p>
 
 ---
 
