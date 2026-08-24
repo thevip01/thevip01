@@ -6,12 +6,12 @@
 
 <!-- 👋 Name (Clickable Portfolio) -->
 
-<h3 align="center">A Passionate GenAI & Full Stack developer from India</h3>
+<h3 align="center">A Passionate AI/ML  & Full Stack developer from India</h3>
 
 <!-- ⚡ Identity Strip -->
 
 <p align="center">
-⚡ GenAI Engineer • 🧠 RAG Systems • 🐍 Python Backend • ⚛️ React
+⚡ AI/ML Engineer • 🧠 RAG Systems • 🐍 Python Backend • ⚛️ React
 </p>
 
 <!-- 🚀 Portfolio Button -->
